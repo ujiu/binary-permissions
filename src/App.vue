@@ -1,3 +1,5 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Mock from 'mockjs'
+</script>
 
-<template>Binary Permissions.</template>
+<template>{{ Mock.mock('@cname') }}</template>

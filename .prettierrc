@@ -10,6 +10,6 @@
   "bracketSpacing": true,
   "bracketSameLine": true,
   "arrowParens": "avoid",
-  "vueIndentScriptAndStyle": true,
+  "vueIndentScriptAndStyle": false,
   "endOfLine": "lf"
 }
